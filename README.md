@@ -12,7 +12,7 @@
 
  * 第一步，點選右側 Releases 的 Latest 版本
 
-![Releases](releases.png)
+![Releases](Releases.png)
 
  * 第二步，點選 "AsukaDownFloor.zip" 進行下載
 
